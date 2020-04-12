@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545557009678",
+    "firebase_url": "https://aula-unair-proto.firebaseio.com",
+    "project_id": "aula-unair-proto",
+    "storage_bucket": "aula-unair-proto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545557009678:android:094fec89e7ecf0d469735f",
+        "android_client_info": {
+          "package_name": "id.trydev.aulaunair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545557009678-fd5v643l5j250rmr06q46gdshfbe2cjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0YxYZieURmC0ui-xb0uVmNSHvbXREeEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545557009678-fd5v643l5j250rmr06q46gdshfbe2cjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

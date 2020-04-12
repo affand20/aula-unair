@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorControlActivated">@android:color/white</item>
+        <item name="colorControlNormal">@color/putih_tipis</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+</resources>

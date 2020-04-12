@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aula UNAIR</string>
+    <string name="status_online">Online</string>
+    <string name="status_offline">Offline</string>
+    <string name="status_on_mobile">On Mobile</string>
+    <string name="status_away">Away</string>
+    <string name="status_busy">Busy</string>
+    <string name="status_do_not_distrub">Don\'t Disturb</string>
+    <string name="status_presenting">Presenting</string>
+    <string name="status_unknown">Unknown</string>
+    <string name="greeting">Hai, %1s</string>
+    <string-array name="matkul">
+        <item>Basis Data</item>
+        <item>Algoritma Pemrograman</item>
+        <item>Struktur Data</item>
+        <item>Audit Sistem Informasi</item>
+        <item>Teori Sistem Informasi</item>
+    </string-array>
+</resources>
